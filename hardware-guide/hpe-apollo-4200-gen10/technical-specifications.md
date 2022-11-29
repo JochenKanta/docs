@@ -51,7 +51,7 @@ keywords: technical specifications, tech specs, specs, specifications, Apollo 42
     <td colspan="4">2 &times; iLO 1 GbE baseT (RJ45)</td>
   </tr>
   <tr>
-    <td>Connectivity Ports</td>
+    <td>CPU Configuration</td>
     <td colspan="2">1 &times; Intel Xeon Silver<br>4210 2.2 GHz 10 cores</td>
     <td>2 &times; Intel Xeon Silver<br>4210 2.2 GHz 10 cores</td>
     <td>1 &times; Intel Xeon Silver<br>4210 2.2 GHz 10-cores</td>
